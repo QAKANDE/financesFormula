@@ -1,11 +1,12 @@
 {
-  "name": "financesformula",
-  "version": "1.0.1",
-  "description": "Monitor finance health with these formulas",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Quadri",
-  "license": "ISC"
+    "name": "financesformula",
+    "version": "1.0.1",
+    "description": "Monitor finance health with these formulas",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "git repository": "https://github.com/QAKANDE/financesFormula",
+    "author": "Quadri",
+    "license": "ISC"
 }
